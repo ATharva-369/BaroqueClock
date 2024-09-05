@@ -26,3 +26,10 @@ body{
     backdrop-filter: blur(3px);
     padding: 10px 0;
 }
+
+/* MOBILE PHONE */
+@media only screen and (max-width: 600px) {
+    .clock{
+        font-size: 3rem;
+    }
+  }
